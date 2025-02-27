@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Shravan, an undergrad at IIT Roorkee, passionate about all things that make life easier, machines smarter, and technology more exciting.
+
 <!--
 **ShravanDeva5327/ShravanDeva5327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
