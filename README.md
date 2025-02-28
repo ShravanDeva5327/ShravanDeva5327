@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 My name is Shravan, an undergrad at IIT Roorkee, passionate about all things that make life easier, machines smarter, and technology more exciting.
 
